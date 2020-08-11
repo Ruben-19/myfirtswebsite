@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Ruben-19/myfirtswebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hablandodeciencia.com%2Farticulos%2F2020%2F03%2F26%2Fla-bala-magica-contra-sars-cov-2%2F&psig=AOvVaw0XzplCmoacir_XKtyqug9m&ust=1597197155715000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiH5Z6FkusCFQAAAAAdAAAAABAD
+
 ### SARS-CoV-2
 
 The evolution of betacoronaviruses in the last 20 years had made a global crysis
